@@ -16,3 +16,7 @@ This example shows how to use Tailwind CSS (v.30) and Sanity CMS with NextJs
 
 # Ref
 youtube: https://www.youtube.com/watch?v=I2dcpatq54o
+
+
+# Demo
+https://nextjs-sanity.vercel.app/
